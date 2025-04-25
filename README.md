@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tarn Singh
 - 👀 I’m interested in 3D and real-world simulation
-- 🌱 I’m currently learning [ HOUDINI ]
+- 🌱 I’m currently learning VEX language which is commonly used in Houdini Software 
 - ⚡ Fun fact: ... I love playing Games
 
 <!---
